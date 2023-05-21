@@ -1,0 +1,4 @@
+('started connection thread for ', <socket.socket fd=740, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5045), raddr=('127.0.0.1', 56872)>)
+('started connection thread for ', <socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5045), raddr=('127.0.0.1', 56975)>)
+('started connection thread for ', <socket.socket fd=752, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5045), raddr=('127.0.0.1', 57011)>)
+('started connection thread for ', <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5045), raddr=('127.0.0.1', 57151)>)
